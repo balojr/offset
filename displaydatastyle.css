@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    inline-size: 100vw;
+}
+
+table {
+    margin: 10px auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(228, 225, 225);
+    border-collapse: collapse;
+    padding: 2vh 2vw;
+}
+
+th,
+td {
+    background-color: #96D4D4;
+}
